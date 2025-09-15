@@ -9,6 +9,7 @@ public class Basic_array {
 		arr[1]=35;
 		System.out.println(arr[1]);
 		System.out.println(arr1[1]);
+		System.out.println("this is additional msg");
 
 	}
 
